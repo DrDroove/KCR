@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -Xlinker -undefined -Xlinker dynamic_lookup -bundle -Wl,-headerpad_max_install_names -o solver.cpython-313-darwin.so CMakeFiles/solver.dir/solver.cpp.o

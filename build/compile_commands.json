@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/a1/Desktop/KCR/build",
+  "command": "/usr/bin/clang++ -Dsolver_EXPORTS -isystem /Library/Frameworks/Python.framework/Versions/3.13/include/python3.13 -isystem /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pybind11/include -g -std=gnu++11 -fPIC -fvisibility=hidden -O3 -o CMakeFiles/solver.dir/solver.cpp.o -c /Users/a1/Desktop/KCR/solver.cpp",
+  "file": "/Users/a1/Desktop/KCR/solver.cpp",
+  "output": "CMakeFiles/solver.dir/solver.cpp.o"
+}
+]
